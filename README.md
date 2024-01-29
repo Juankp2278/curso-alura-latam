@@ -5,3 +5,5 @@
 para ejecutar el sistema debes poner:
 
 ```npm install react```
+
+Haciendo una modificacion para realizar el ejemplo del pull
